@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.center{
+    text-align: center;
+    margin: 30px
+}
+img{
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+.bar{
+    width: 100%;
+    background-color: gray;
+    padding: 15px;
+    
+}
+.logo{
+    display: inline;
+    padding: 20px;
+    padding-right: 200px;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+h2{
+    text-align: center;
+    font-size: 35px;
+}
+ul,ol,p{
+    text-align: center;
+    text-wrap: wrap;
+}
